@@ -40,4 +40,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions regarding TravelWebsite, feel free to contact us at [your@email.com](mailto:your@email.com).
+If you have any questions or suggestions regarding TravelWebsite, feel free to contact us at [blherath@email.com](mailto:blherath@email.com).
