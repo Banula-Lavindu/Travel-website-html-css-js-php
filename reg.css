@@ -1,0 +1,80 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    	align-content: center;
+			background-size: cover;
+			background-position: center;
+   
+
+}
+
+.box {
+    width: 550px;
+    background-color: rgb(242, 235, 235,0.9);
+    border-radius: 10px;
+    margin: 50px auto;
+    padding: 30px;
+    box-shadow: 0 0 20px rgb(45, 248, 0,0.7);
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    color: #ffffff;
+    background-color: rgba(188, 181, 181, 0.5);
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+input[type="submit"] {
+    width: 100%;
+    background-color: #27ae60;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #219653;
+}
+
+a {
+    text-decoration: none;
+    color: #2c3e50;
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    color: #27ae60;
+}
+
+p {
+    font-size: 18px;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+input.invalid {
+    border: 1px solid red;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
